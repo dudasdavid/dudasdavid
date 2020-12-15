@@ -2,6 +2,8 @@
 
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=dudasdavid&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@david.dudas"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@david.dudas/0" alt="Recent Article 0">
+
 <!--
 **dudasdavid/dudasdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
