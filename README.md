@@ -4,12 +4,12 @@
 
 ---
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@david.dudas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@david.dudas/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@david.dudas/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@david.dudas/1" alt="Recent Article 1"></a>
  
 <details>
- <summary><strong>other favorite posts</strong></summary>
+ <summary><strong>My other Medium articles:</strong></summary>
  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@david.dudas/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@david.dudas/1" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@david.dudas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@david.dudas/0" alt="Recent Article 0"></a>
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@david.dudas/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@david.dudas/2" alt="Recent Article 2"></a>
 </details>
