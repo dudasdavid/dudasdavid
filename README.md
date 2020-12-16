@@ -1,10 +1,10 @@
 <p align='center'>
-<a href="https://medium.com/@david.dudas"><img height="30" src="https://github.com/dudasdavid/dudasdavid/blob/main/icon/medium.svg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/dudasdavid/"><img height="30" src="https://github.com/dudasdavid/dudasdavid/blob/main/icon/linkedin.svg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/dudasdavid"><img height="30" src="https://github.com/dudasdavid/dudasdavid/blob/main/icon/coffee-cup.svg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCIlLU4F6OjgSLKGHUTe-_Kw"><img height="30" src="https://raw.githubusercontent.com/dudasdavid/dudasdavid/main/icon/youtube.svg"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/ddudas"><img height="30" src="https://github.com/dudasdavid/dudasdavid/blob/main/icon/instagram.svg"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/dudasd/"><img height="30" src="https://github.com/dudasdavid/dudasdavid/blob/main/icon/facebook.svg"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@david.dudas"><img height="40" src="https://github.com/dudasdavid/dudasdavid/blob/main/icon/medium.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dudasdavid/"><img height="40" src="https://github.com/dudasdavid/dudasdavid/blob/main/icon/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/dudasdavid"><img height="40" src="https://github.com/dudasdavid/dudasdavid/blob/main/icon/coffee-cup.svg"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCIlLU4F6OjgSLKGHUTe-_Kw"><img height="40" src="https://github.com/dudasdavid/dudasdavid/blob/main/icon/youtube.svg"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/ddudas"><img height="40" src="https://github.com/dudasdavid/dudasdavid/blob/main/icon/instagram.svg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/dudasd/"><img height="40" src="https://github.com/dudasdavid/dudasdavid/blob/main/icon/facebook.svg"></a>&nbsp;&nbsp;
 </p>
 
 # Hey! Nice to see you. 👋
