@@ -8,12 +8,29 @@
 
 # Hey! Nice to see you. 👋
 
----
-
 Welcome to my page! </br> I'm David, robotics enthusiast from <img src="https://raw.githubusercontent.com/dudasdavid/dudasdavid/main/icon/hungary.svg" width="13"/> <b>Budapest, Hungary</b>.
 I create blog posts and open source project mainly about robotics and machine learning.
 
-### 💻 What I am currently working on
+### 💻 Open source projects / What I am currently working on
+
+      <td><b> Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b> Forks</b></td>
+      <td><b> Issues</b></td>
+      <td><b> Pull requests</b></td>
+
+
+| 🎁 Projects                                                       | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
+|-------------------------------------------------- -----------------|----------|-----------|----------|-------------------|
+| [ROS Educational materials](https://github.com/hungarianrobot) 🚀 |       |       |        |               |
+| OpenManipulator-X                  |       |       |        |               |
+| Telemanipulation device for ROS    |       |       |        |               |
+| Neural-network based line follower |       |       |        |               |
+| ROS node for Revolution Robotics   |       |       |        |               |
+| OpenVINO based object detector     |       |       |        |               |
+| 1:24 sized 4WD ROS rover           |       |       |        |               |
+
+
 - [ROS Educational materials](https://github.com/hungarianrobot) 🚀
 - OpenManipulator-X 🚀 *coming soon*
 
