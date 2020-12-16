@@ -6,8 +6,11 @@
 <a href="https://instagram.com/ddudas"><img height="30" src="https://github.com/dudasdavid/dudasdavid/blob/main/icon/instagram.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-### Hi there 👋
+# Hey! Nice to see you. 👋
 
+---
+
+Welcome to my page! </br> I'm David, robotics enthusiast from <img src="https://raw.githubusercontent.com/dudasdavid/dudasdavid/main/icon/hungary.svg" width="13"/> <b>Budapest, Hungary</b>.
 I create blog posts and open source project mainly about robotics and machine learning.
 
 ### 💻 What I am currently working on
