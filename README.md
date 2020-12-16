@@ -13,15 +13,9 @@ I create blog posts and open source project mainly about robotics and machine le
 
 ### 💻 Open source projects / What I am currently working on
 
-      <td><b> Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b> Forks</b></td>
-      <td><b> Issues</b></td>
-      <td><b> Pull requests</b></td>
-
 
 | 🎁 Projects                                                       | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
-|-------------------------------------------------- -----------------|----------|-----------|----------|-------------------|
+|--------------------------------------------------------------------|----------|-----------|----------|-------------------|
 | [ROS Educational materials](https://github.com/hungarianrobot) 🚀 |       |       |        |               |
 | OpenManipulator-X                  |       |       |        |               |
 | Telemanipulation device for ROS    |       |       |        |               |
