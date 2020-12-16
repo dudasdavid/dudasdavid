@@ -12,17 +12,23 @@ Welcome to my page! </br> I'm David, robotics enthusiast from <img src="https://
 I create blog posts and open source project mainly about robotics and machine learning.
 
 ### 💻 Open source projects / What I am currently working on
+<!--
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+-->
 
 
-| 🎁 Projects                                                       | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
-|--------------------------------------------------------------------|----------|-----------|----------|-------------------|
-| [ROS Educational materials](https://github.com/hungarianrobot) 🚀 |       |       |        |               |
-| OpenManipulator-X                  |       |       |        |               |
-| Telemanipulation device for ROS    |       |       |        |               |
-| Neural-network based line follower |       |       |        |               |
-| ROS node for Revolution Robotics   |       |       |        |               |
-| OpenVINO based object detector     |       |       |        |               |
-| 1:24 sized 4WD ROS rover           |       |       |        |               |
+| 🚀 Projects                                                                           | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
+|----------------------------------------------------------------------------------------|----------|-----------|----------|-------------------|
+| [ROS Educational materials](https://github.com/hungarianrobot)                         |       |       |        |               |
+| [OpenManipulator-X](https://github.com/dudasdavid/open_manipulator)                    |<img alt="Stars" src="https://img.shields.io/github/stars/dudasdavid/open_manipulator?style=flat-square&labelColor=343b41"/>       |       |        |               |
+| [Telemanipulation device for ROS](https://github.com/dudasdavid/HapticDevice)          |       |       |        |               |
+| [Neural-network based line follower](https://github.com/dudasdavid/line_follower)      |       |       |        |               |
+| [ROS node for Revolution Robotics](https://github.com/dudasdavid/revvyframework_ros)   |       |       |        |               |
+| [OpenVINO based object detector](https://github.com/dudasdavid/OpenVINO-ObjectDetector)|       |       |        |               |
+| [1:24 sized 4WD ROS rover](https://github.com/dudasdavid/4WD-ROS-Rover)                |       |       |        |               |
 
 
 - [ROS Educational materials](https://github.com/hungarianrobot) 🚀
