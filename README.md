@@ -38,7 +38,7 @@ I create blog posts and open source project mainly about robotics and machine le
 
 ---
 
-[![David's github stats](https://github-readme-stats.vercel.app/api?username=dudasdavid&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![David's github stats](https://github-readme-stats.vercel.app/api?username=dudasdavid&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
