@@ -52,11 +52,12 @@ https://github.com/hungarianrobot/Project-2-Mapping
 ---
 
 ### 📫 Where to find me
-- [Medium](https://medium.com/@david.dudas) 🤓
-- [LinkedIn](https://www.linkedin.com/in/dudasdavid/) 💼
-- [Facebook](https://www.facebook.com/dudasd/) 😏
-- [Instagram](https://instagram.com/ddudas) 😎
-- [YouTube](https://www.youtube.com/channel/UCIlLU4F6OjgSLKGHUTe-_Kw) 📺
+- [Medium](https://medium.com/@david.dudas) :books:
+- [LinkedIn](https://www.linkedin.com/in/dudasdavid/) :briefcase:
+- [Buy me a coffee](https://www.buymeacoffee.com/dudasdavid) :coffee:
+- [YouTube](https://www.youtube.com/channel/UCIlLU4F6OjgSLKGHUTe-_Kw) :tv:
+- [Instagram](https://instagram.com/ddudas) :sunglasses:
+- [Facebook](https://www.facebook.com/dudasd/) :smirk:  
 
 ---
 
